@@ -1,0 +1,88 @@
+java script
+
+
+VARIABLES***
+var-global value
+let - only in block 
+const-value can't change
+
+string always mentioned in doble quotation""
+
+var a= "raj"
+
+
+KEYWORDS *** VALUE CANNOT BE VARIABLE NAME
+
+COMMENTS SIMILAR TO JAVA // SINGLE COMMENT /*.....*/ MULTILINE COMMAND
+
+INCREMENT ***
+post increment,post decrement decrement   var a=10 ,a++(10 only),console.log(a)=11 //because a++ have same a value 
+again in console they meet another a and finally changed into 11
+pre increment,pre decrement decrement   var a=10 ,--a(it vive versa of post increment 9)
+
+DATATYPES***
+
+console.log(typeof(10))=number
+console.log(typeof("raj"))=string
+
+primitive data type:number,string,boolean,null,undefined
+non primitive data type: Array,Object
+
+
+FUNCTIONS***
+
+function abc()
+{
+   console.log("Hello")
+}
+abc() //function call==Hello
+
+PARAMETERS***
+
+function add(a,b)
+{
+    console.log(a+b)
+}
+
+add(10,20)// parameter passing
+
+
+RETURN TYPE***
+
+function add(a,b)
+{
+    return(a+b)
+}
+var total=add(10,20)
+console.log(total)
+
+FOR LOOP***
+for(int=1;int<=10;int++)
+{
+console.log(int+"*"+"2"+"="+int*2)
+}
+
+DOM MANUIPULATION
+
+document object model 
+
+document is the gateway for entire html code so if we make any change in web page
+we only through the document type so called document object model(make change in web page)
+
+getElemntById==get a elment from hole taged id
+textContent==take a specific main content from tagedid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,1 +1,1 @@
-# Quiz-Management-using-Spring-with-MySql-
+# Quiz-Management-using-Spring boot-with-MySql-
